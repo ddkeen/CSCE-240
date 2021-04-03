@@ -1,2 +1,2 @@
-# CSCE-247
+# CSCE-240
 Advanced Programming Techniques
